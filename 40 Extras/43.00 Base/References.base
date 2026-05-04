@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("50 Sources/51.00 Reference")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    sort: []
+    columnSize:
+      file.name: 477

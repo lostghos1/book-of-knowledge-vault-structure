@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("30 Cards/31.00 QuickNote")
+    order:
+      - file.name
+      - file.tags

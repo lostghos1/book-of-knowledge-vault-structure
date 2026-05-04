@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("40 Extras/43.00 Base")
