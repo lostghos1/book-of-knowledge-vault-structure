@@ -1,0 +1,16 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: DESC
+    columnSize:
+      file.name: 393
