@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "#651010",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "Daily Note Themes"
+  ]
+}
