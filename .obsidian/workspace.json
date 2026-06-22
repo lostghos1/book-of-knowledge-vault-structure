@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Atlas/11.00 MOCs/Homepage.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of README"
             }
           }
         ],
@@ -230,6 +230,7 @@
   },
   "active": "168620521bd31504",
   "lastOpenFiles": [
+    "10 Atlas/11.00 MOCs/Homepage.md",
     "obsidian/workspaces.json",
     "obsidian/workspace.json",
     "obsidian/types.json",
@@ -240,12 +241,10 @@
     "obsidian/templates.json",
     "obsidian/snippets/Daily Note Themes.css",
     "obsidian/snippets",
-    "obsidian/plugins/url-into-selection/manifest.json",
     "README.md",
     "20 Calendar/22.00 Daily Notes/20260504.md",
     "20 Calendar/22.00 Daily Notes/20260622.md",
     "40 Extras/42.00 Templates/42.10 Basic Templates/template-dailynote.md",
-    "10 Atlas/11.00 MOCs/Homepage.md",
     "40 Extras/42.00 Templates/42.10 Basic Templates/template-people-personal.md",
     "90 Spaces/92.00 School/92.20 Areas/92.21 Subject Notes/English Conditionals.md",
     "90 Spaces/92.00 School/92.20 Areas/92.21 Subject Notes/English Tenses.md",
