@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("90 Spaces/92.00 School/92.20 Areas")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags

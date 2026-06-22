@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains(link("Food"))
+        - '!file.name.contains("template")'
+    order:
+      - file.name
+      - Type
+      - rating
+    sort:
+      - property: rating
+        direction: ASC
+    columnSize:
+      file.name: 177
+      note.Type: 284

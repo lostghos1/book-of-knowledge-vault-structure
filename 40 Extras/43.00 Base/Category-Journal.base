@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("category")
+        - category.contains(link("Journal"))
+        - '!file.name.contains("template")'
+    order:
+      - file.name
+      - Type
+      - cssclasses
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      note.Type: 337

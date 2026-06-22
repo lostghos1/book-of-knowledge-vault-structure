@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("50 Sources/54.00 Reflections")
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

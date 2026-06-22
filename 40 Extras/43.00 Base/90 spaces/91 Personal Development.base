@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("90 Spaces/91.00 NoLife/91.20 Areas/91.23 Personal Development")

@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("40 Extras/44.00 Archives")
+    order:
+      - file.name
+      - file.tags
+    limit: 10

@@ -1,0 +1,112 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "2PTvlctEXTEgUBooqSmZL",
+      "name": "1",
+      "value": "#daffa3"
+    },
+    {
+      "id": "ZtaMHvD2eLk-l3HL2uGU-",
+      "name": "2",
+      "value": "#bdf7ff"
+    },
+    {
+      "id": "lxi4QRHXI3MPghV3GCHnj",
+      "name": "3",
+      "value": "#dfb8ff"
+    },
+    {
+      "id": "kSDEnSzcGH1jLxfhi5zXN",
+      "name": "4",
+      "value": "#ffa3e2"
+    },
+    {
+      "id": "liO_z4jBrs5fabTjZdkP4",
+      "name": "5",
+      "value": "#ff8585"
+    },
+    {
+      "id": "QFFa4G0qwDvJ3vWq2citR",
+      "name": "6",
+      "value": "#ffd5b3"
+    },
+    {
+      "id": "Ob6z1QgadZdJx1Cip8bvl",
+      "name": "0",
+      "value": "#fff79e"
+    },
+    {
+      "id": "PTwAVJZmdblqsTaMdcSmh",
+      "name": "6.1",
+      "value": "#4b639b"
+    },
+    {
+      "id": "J_lhptG1ssiwC79TMoQnp",
+      "name": "6.2",
+      "value": "#733a6f"
+    },
+    {
+      "id": "FfJIVtnm9x-hVEj4PfJ4-",
+      "name": "6.4",
+      "value": "#375839"
+    },
+    {
+      "id": "D7yZ-8Qpr_FrWX5x79yhH",
+      "name": "6.3",
+      "value": "#652a2a"
+    },
+    {
+      "id": "EOXyRoWFM-XlhrNtKvyy7",
+      "name": "6.5",
+      "value": "#3c6467"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 Encounters",
+      "color": "Ob6z1QgadZdJx1Cip8bvl"
+    },
+    {
+      "path": "10 Atlas",
+      "color": "2PTvlctEXTEgUBooqSmZL"
+    },
+    {
+      "path": "20 Calendar",
+      "color": "ZtaMHvD2eLk-l3HL2uGU-"
+    },
+    {
+      "path": "30 Cards",
+      "color": "lxi4QRHXI3MPghV3GCHnj"
+    },
+    {
+      "path": "40 Extras",
+      "color": "kSDEnSzcGH1jLxfhi5zXN"
+    },
+    {
+      "path": "50 Sources",
+      "color": "liO_z4jBrs5fabTjZdkP4"
+    },
+    {
+      "path": "90 Spaces",
+      "color": "QFFa4G0qwDvJ3vWq2citR"
+    },
+    {
+      "path": "90 Spaces/91.00 NoLife",
+      "color": "PTwAVJZmdblqsTaMdcSmh"
+    },
+    {
+      "path": "6 Spaces/6.3 Writing",
+      "color": "D7yZ-8Qpr_FrWX5x79yhH"
+    },
+    {
+      "path": "90 Spaces/92.00 School",
+      "color": "J_lhptG1ssiwC79TMoQnp"
+    },
+    {
+      "path": "10 Atlas/11.00 MOCs/Extras MOC.md",
+      "color": "2PTvlctEXTEgUBooqSmZL"
+    }
+  ]
+}

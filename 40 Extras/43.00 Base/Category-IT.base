@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains(link("IT"))
+        - '!file.name.contains("template")'
+    order:
+      - file.name
+      - Type
+    sort:
+      - property: Type
+        direction: ASC

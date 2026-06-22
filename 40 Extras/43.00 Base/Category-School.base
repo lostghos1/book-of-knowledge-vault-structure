@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains(link("School"))
+        - '!file.name.contains("template")'
+    order:
+      - file.name
+      - Type
+      - Teacher
+    sort:
+      - property: Teacher
+        direction: ASC

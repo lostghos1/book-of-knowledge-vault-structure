@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("30 Cards/32.00 Dictionary")
+    order:
+      - file.name
+      - Type
+      - source
+    columnSize:
+      file.name: 160

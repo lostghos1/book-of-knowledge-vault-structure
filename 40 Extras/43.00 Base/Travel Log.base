@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("30 Cards/36.00 Tavel Log")
+    order:
+      - file.name

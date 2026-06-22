@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category.contains(link("10 Atlas/12.00 Categories/D&D", "D&D"))
+        - '!file.name.contains("template")'
+    order:
+      - file.name
+      - Type
+    sort:
+      - property: Type
+        direction: DESC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 383
+      note.Type: 465

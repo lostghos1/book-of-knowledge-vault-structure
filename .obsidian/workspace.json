@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Atlas/11.00 MOCs/Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30c8cf300c722fe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5b07de0d209da3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168620521bd31504",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3293974a62c68a9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da2c6f70a8002cad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "7117a15dab470727",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eff0e539bb626ce",
+        "type": "tabs",
+        "dimension": 45.65217391304348,
+        "children": [
+          {
+            "id": "f45458e04d710858",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b71a574340754917",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10 Atlas/11.00 MOCs/Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homepage"
+            }
+          },
+          {
+            "id": "3de22d8d8a9df5ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 Atlas/11.00 MOCs/Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
+            }
+          }
+        ]
+      },
+      {
+        "id": "77d187d60980c550",
+        "type": "tabs",
+        "dimension": 27.17391304347826,
+        "children": [
+          {
+            "id": "c3232423b54da02d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d722917b6c22bea3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 Atlas/11.00 MOCs/Homepage.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a14b53d621bf7978",
+        "type": "tabs",
+        "dimension": 27.17391304347826,
+        "children": [
+          {
+            "id": "8512303143561b86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "757a8b1187f0eee0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Atlas/12.00 Categories/MOCs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MOCs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": true,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "bases:Create new base": true,
+      "workspaces:Manage workspace layouts": true,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "168620521bd31504",
+  "lastOpenFiles": [
+    "obsidian/workspaces.json",
+    "obsidian/workspace.json",
+    "obsidian/types.json",
+    "obsidian/themes/Vanilla AMOLED/theme.css",
+    "obsidian/themes/Vanilla AMOLED/manifest.json",
+    "obsidian/themes/Vanilla AMOLED",
+    "obsidian/themes",
+    "obsidian/templates.json",
+    "obsidian/snippets/Daily Note Themes.css",
+    "obsidian/snippets",
+    "obsidian/plugins/url-into-selection/manifest.json",
+    "README.md",
+    "20 Calendar/22.00 Daily Notes/20260504.md",
+    "20 Calendar/22.00 Daily Notes/20260622.md",
+    "40 Extras/42.00 Templates/42.10 Basic Templates/template-dailynote.md",
+    "10 Atlas/11.00 MOCs/Homepage.md",
+    "40 Extras/42.00 Templates/42.10 Basic Templates/template-people-personal.md",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subject Notes/English Conditionals.md",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subject Notes/English Tenses.md",
+    "90 Spaces/91.00 NoLife/91.20 Areas/91.21 Health/routine.md",
+    "90 Spaces/92.00 School/92.10 MOCs/Schoolpage.md",
+    "90 Spaces/91.00 NoLife/91.10 MOCs/NoLife MOC.md",
+    "50 Sources/53.00 Analysis/53.10 Dictionary/Unerring.md",
+    "50 Sources/53.00 Analysis/53.10 Dictionary/Tenebrous.md",
+    "50 Sources/53.00 Analysis/53.10 Dictionary/Hitherto.md",
+    "50 Sources/52.00 Materials/52.10 Quotes/Ren ~ parasites.md",
+    "50 Sources/52.00 Materials/52.10 Quotes/Nietzsche ~ fishing.md",
+    "50 Sources/52.00 Materials/52.10 Quotes/Carlyle ~ genius.md",
+    "50 Sources/51.00 Reference/51.30 Recipes/recipe.md",
+    "50 Sources/51.00 Reference/51.10 People/51.14 Fictional/Sunless.md",
+    "50 Sources/51.00 Reference/51.10 People/51.12 Professional/people-professional.md",
+    "50 Sources/51.00 Reference/51.10 People/51.11 Personal/personal.md",
+    "10 Atlas/11.00 MOCs/Atlas MOC.md",
+    "10 Atlas/12.00 Categories/Journal.md",
+    "10 Atlas/12.00 Categories/Locations.md",
+    "10 Atlas/12.00 Categories/Life.md",
+    "40 Extras/41.00 Attachments/camille-unknown-bw.png",
+    "40 Extras/41.00 Attachments/snake.gif",
+    "40 Extras/41.00 Attachments/cathedral.jpg",
+    "90 Spaces/94.00 Writing/94.30 Projects/The Sinner/Story/Core Concept/Core concept.canvas",
+    "40 Extras/41.00 Attachments/rice field.png",
+    "40 Extras/41.00 Attachments/Retro illustration chateau vampire.jpg",
+    "40 Extras/41.00 Attachments/Pasted image 20260301171600.png",
+    "40 Extras/41.00 Attachments/Pasted image 20260223112505.png",
+    "40 Extras/41.00 Attachments/Pasted image 20260223112359.png",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subject Notes/Ridici Systemy add.canvas",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subject Notes/Děje Ideálního plynu vzorec.canvas",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subjects/Programming/Java.canvas",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subjects/Practicals/Ridici Systemy add.canvas",
+    "90 Spaces/92.00 School/92.20 Areas/92.21 Subjects/Physics/Děje Ideálního plynu vzorec.canvas",
+    "20 Calendar/21.00 Quests/21.10 To-Do/Tasks view.canvas",
+    "90 Spaces/94.00 Writing/94.30 Projects/The Sinner/Worldbuilding/Characters/Character Canvas/Lucian Vexmor.canvas",
+    "40 Extras/41.00 Attachments/Pasted image 20260223112232.png",
+    "20 Calendar/21.00 To-Do/21.10 Tasks/Tasks view.canvas",
+    "90 Spaces/94.00 Writing/94.30 Projects/The Sinner/Worldbuilding/Cultural Worldbuiding/Class System.canvas",
+    "40 Extras/41.00 Attachments/Pasted image 20260220120412.png"
+  ]
+}

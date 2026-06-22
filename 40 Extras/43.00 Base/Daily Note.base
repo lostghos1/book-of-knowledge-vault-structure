@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.inFolder("20 Calendar/22.00 Daily Notes")
+        - file.inFolder("20 Calendar/23.00 Monthly Notes")
+        - file.inFolder("20 Calendar/24.00 Yearly Notes")
+    order:
+      - file.name
+      - file.links
+    sort:
+      - property: file.name
+        direction: DESC
+    limit: 10
+    columnSize:
+      file.links: 316
