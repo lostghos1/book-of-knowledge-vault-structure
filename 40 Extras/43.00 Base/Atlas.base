@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "10 Atlas/11.00 MOCs"
-    order:
-      - file.name
